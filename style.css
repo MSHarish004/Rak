@@ -1,10 +1,9 @@
 body{
-            background-color:blue;
-}
+                background-color:blue ;
+            }
             
 h1{
-               
-            text-align: center;
+                text-align: center;
                 text-transform: uppercase;
                 background-color:#115577;
                 padding: 10px;
@@ -13,22 +12,26 @@ h1{
                 width: 400px;
                 box-sizing: content-box;
             }
-            .kanne{
+           
+.kanne{
                 text-align: center;
                 color:rgba(128, 0, 109, 0.901);
             }
-            .entry{
+           
+.entry{
                 font-size: 120%;
                 text-shadow:0in;
                 color:whitesmoke;
                 text-align: left;
             } 
-            p{
-                color:rgba(255, 254,300, 0.989);
+           
+p{
+              color:rgba(255, 254,300, 0.989);
                 text-align: left;
                 
             }
-            .irava{
+            
+.irava{
                 padding:10px;
                 border:2px solid ;
                 text-align: center;
@@ -36,7 +39,8 @@ h1{
                 margin:10px;
                 width: 400px;
             }
-            .quotes7{
+            
+.quotes7{
                 text-align: center;
                 color:rgba(200, 200, 200, 0.805); 
             }
@@ -44,11 +48,13 @@ h1{
                 text-align: center;
                 color:rgba(155, 154,20, 0.989)
             }
-            .end{
+            
+.end{
                 text-align: right;
                 color:aliceblue
             }
-            img{
+           
+img{
                 text-align: right;
                 width:250px;
                 height:250px;
@@ -62,13 +68,13 @@ h1{
                 
             }
 
-            img:hover {
+            
+img:hover {
                 box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
                 background-color:yellow;
             }
 
-            #valentines{
+            
+#valentines{
                 color:pink;
             }
-
-        
