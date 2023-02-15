@@ -1,6 +1,10 @@
-
-            h1{
-                text-align: center;
+body{
+            background color:blue;
+}
+            
+h1{
+               
+            text-align: center;
                 text-transform: uppercase;
                 background-color:#115577;
                 padding: 10px;
